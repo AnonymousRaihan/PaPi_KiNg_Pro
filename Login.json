@@ -1,24 +1,24 @@
 [
   {
-    "device_id": "c647e9c08c5e11f6",
+    "id": "c647e9c08c5e11f6",
     "user_name": "PaPi_KiNg",
-    "password": "PaPi@@@",
+    "key": "PaPi@@@",
     "expiresAt": "2026-05-30",
     "status": "active",
     "allowOffline": true
   },
   {
-    "device_id": "xyz123abc456",
+    "id": "xyz123abc456",
     "user_name": "PaPi_User_2",
-    "password": "key2",
+    "key": "key2",
     "expiresAt": "2025-12-25",
     "status": "blocked",
     "allowOffline": true
   },
   {
-    "device_id": "any",
+    "id": "any",
     "user_name": "admin",
-    "password": "master_papi",
+    "key": "master_papi",
     "expiresAt": "2099-01-01",
     "status": "active",
     "allowOffline": true
