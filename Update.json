@@ -1,1 +1,8 @@
-
+{
+  "versionCode": 2,
+  "versionName": "2.0",
+  "title": "🎁 New Update Available 🎁",
+  "updateMessage": "• Security Enhanced\n• Native Implementation Added\n• UI Optimization",
+  "updateUrl": "https://example.com/your_app.apk",
+  "fileSizeInBytes": 5242880
+}
