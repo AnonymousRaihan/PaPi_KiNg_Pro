@@ -1,1 +1,26 @@
-
+[
+  {
+    "device_id": "8c94a1b2c3d4e5f6",
+    "user_name": "PaPi_User_1",
+    "password": "key1",
+    "expiresAt": "2026-05-30",
+    "status": "active",
+    "allowOffline": true
+  },
+  {
+    "device_id": "xyz123abc456",
+    "user_name": "PaPi_User_2",
+    "password": "key2",
+    "expiresAt": "2025-12-25",
+    "status": "blocked",
+    "allowOffline": true
+  },
+  {
+    "device_id": "any",
+    "user_name": "admin",
+    "password": "master_papi",
+    "expiresAt": "2099-01-01",
+    "status": "active",
+    "allowOffline": true
+  }
+]
