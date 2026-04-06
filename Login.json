@@ -12,7 +12,7 @@
     "user_name": "PaPi16",
     "key": "123@@@",
     "expiresAt": "2026-12-25",
-    "status": "blocked",
+    "status": "active",
     "allowOffline": true
   },
   {
@@ -20,7 +20,7 @@
     "user_name": "admin",
     "key": "master_papi",
     "expiresAt": "2099-01-01",
-    "status": "active",
+    "status": "blocked",
     "allowOffline": true
   }
 ]
